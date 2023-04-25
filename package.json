@@ -1,0 +1,26 @@
+{
+  "name": "hw34",
+  "version": "1.0.0",
+  "description": "Сделайте функцию, каждый вызов который будет генерировать случайные числа от 1 до 100, но так, чтобы они не повторялись, пока не будут перебраны все числа из этого промежутка. Решите задачу через замыкания - в замыкании должен хранится массив чисел, которые уже были сгенерированы функцией.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrianapopp/hw34.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrianapopp/hw34/issues"
+  },
+  "homepage": "https://github.com/andrianapopp/hw34#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-plugin-react": "^7.32.2"
+  }
+}
